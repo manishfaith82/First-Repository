@@ -11,3 +11,15 @@ resource "aws_instance" "myec2" {
   }
 
 }
+
+variable "region" {
+
+}
+variable "instance_type" {
+
+}
+
+variable "ami" {
+
+}
+
